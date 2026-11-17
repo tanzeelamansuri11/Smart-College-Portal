@@ -1,7 +1,11 @@
 # D. Y. Patil College of Engineering, Akurdi - Smart College Website Portal
 
 **Subject:** Web Technology 1 (AD124PE507.1) | **CCE-5:** Unit V Mini Project
+<<<<<<< HEAD
 **Name:** Tanzeela Mansuri | **Roll No:** TY2627AID004 | **Batch:** A1
+=======
+**Name:** _Your Name_ | **Roll No:** _Your Roll No_ | **Batch:** _Your Batch_
+>>>>>>> 100725b3314eac13b166b8e31b92a2998603e6c4
 
 ## Problem Statement
 Students and parents often struggle to find college information such as departments,
@@ -50,8 +54,16 @@ _Add screenshots here (Home, Mission & Vision, Courses, Faculty, Enquiry form, m
 ### Home
 ![Home](screenshots/home.png)
 
+<<<<<<< HEAD
 ### Departments
 ![Departments](screenshots/departments.png)
+=======
+### Mission & Vision
+![Mission and Vision](screenshots/mission.png)
+
+### Courses
+![Courses](screenshots/courses.png)
+>>>>>>> 100725b3314eac13b166b8e31b92a2998603e6c4
 
 ### Faculty
 ![Faculty](screenshots/faculty.png)
@@ -69,4 +81,11 @@ _Add screenshots here (Home, Mission & Vision, Courses, Faculty, Enquiry form, m
 | Data loads from the JSON files in data/ | Pass |
 | Invalid enquiry form shows error messages | Pass |
 | Valid enquiry form shows success message | Pass |
+<<<<<<< HEAD
 | Layout works on mobile width | Pass |
+=======
+| Layout works on mobile width | Pass |
+
+## Author
+_Your Name_ - T.Y. AI&DS, D. Y. Patil College of Engineering, Akurdi, Pune 411044
+>>>>>>> 100725b3314eac13b166b8e31b92a2998603e6c4

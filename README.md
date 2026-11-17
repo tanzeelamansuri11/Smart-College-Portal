@@ -58,7 +58,11 @@ README.md    - documentation
 ![Enquiry](screenshots/enquiry.png)
 
 ### Mobile View
-![Mobile](screenshots/mobile1.png)
+![Mobile](screenshots/mobile.png)
+
+### Tab View
+![Tab](screenshots/tab.png)
+
 
 
 ## Testing
@@ -68,5 +72,4 @@ README.md    - documentation
 | Data loads from the JSON files in data/ | Pass |
 | Invalid enquiry form shows error messages | Pass |
 | Valid enquiry form shows success message | Pass |
-<<<<<<< HEAD
 | Layout works on mobile width | Pass |

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Semester Registration Reminder",
+    "description": "Students are requested to complete their semester registration through the college process before the announced deadline.",
+    "date": "17 Nov 2026"
+  },
+  {
+    "title": "Technical Event Registration",
+    "description": "Registration details for upcoming technical activities will be shared by the respective departments.",
+    "date": "15 Nov 2026"
+  },
+  {
+    "title": "Library Book Return",
+    "description": "Students are requested to return or renew borrowed library books according to the library schedule.",
+    "date": "12 Nov 2026"
+  },
+  {
+    "title": "Project Review Schedule",
+    "description": "Project review dates and instructions will be communicated by department coordinators.",
+    "date": "10 Nov 2026"
+  }
+]

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Smart College Website Portal">
+  <title>D. Y. Patil College of Engineering, Akurdi | Smart College Portal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#home" data-link>
+      <img class="college-logo" src="assets/dypcoe-logo.svg" alt="D. Y. Patil College of Engineering, Akurdi logo">
+      <span><strong>D. Y. PATIL COLLEGE OF ENGINEERING</strong><small>Akurdi, Pune · Smart College Portal</small></span>
+    </a>
+    <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation">☰</button>
+    <nav id="mainNav" aria-label="Main navigation">
+      <a href="#home" data-link>Home</a>
+      <a href="#departments" data-link>Departments</a>
+      <a href="#faculty" data-link>Faculty</a>
+      <a href="#notices" data-link>Notices</a>
+      <a href="#enquiry" data-link class="nav-cta">Enquiry</a>
+    </nav>
+  </header>
+
+  <main id="app" tabindex="-1">
+    <section class="hero">
+      <div class="hero-content">
+        <p class="eyebrow">LEARN · INNOVATE · LEAD</p>
+        <h1>Shape your future<br><span>with knowledge.</span></h1>
+        <p class="hero-copy">Explore academic departments, meet our faculty and stay updated with the latest college announcements.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#departments" data-link>Explore Departments</a>
+          <a class="btn btn-outline" href="#enquiry" data-link>Make an Enquiry</a>
+        </div>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="art-circle"></div><div class="art-card card-one">✦<br><b>Learn</b></div>
+        <div class="art-card card-two">⌘<br><b>Create</b></div>
+        <div class="art-card card-three">↗<br><b>Grow</b></div>
+      </div>
+    </section>
+    <section class="stats section-wrap">
+      <div><strong>6+</strong><span>Departments</span></div>
+      <div><strong>50+</strong><span>Faculty Members</span></div>
+      <div><strong>Industry</strong><span>Focused Learning</span></div>
+    </section>
+    <section class="section-wrap intro">
+      <div><p class="eyebrow">WELCOME TO DYPCOE</p><h2>A campus built for<br><span>what comes next.</span></h2></div>
+      <p>Our Smart College Portal brings essential academic information into one place. Browse departments and courses, discover faculty profiles, read notices and send your questions through the enquiry form.</p>
+    </section>
+    <section class="section-wrap" id="homeHighlights">
+      <div class="section-heading"><div><p class="eyebrow">QUICK ACCESS</p><h2>Explore the portal</h2></div></div>
+      <div class="quick-grid">
+        <a class="quick-card" href="#departments" data-link><span>01</span><h3>Departments</h3><p>Explore programmes and areas of study.</p><b>Explore →</b></a>
+        <a class="quick-card" href="#faculty" data-link><span>02</span><h3>Our Faculty</h3><p>Get to know the people who guide you.</p><b>Meet faculty →</b></a>
+        <a class="quick-card" href="#notices" data-link><span>03</span><h3>Latest Notices</h3><p>Stay informed about college updates.</p><b>View notices →</b></a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div><a class="footer-brand" href="#home" data-link><img class="footer-logo" src="assets/dypcoe-logo.svg" alt=""> D. Y. Patil College of Engineering</a><p>Akurdi, Pune · Smart College Website Portal</p></div>
+    <p>© <span id="year"></span> D. Y. Patil College of Engineering, Akurdi, Pune. Student mini project.</p>
+    <a href="#enquiry" data-link>Contact / Enquiry ↑</a>
+  </footer>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="app.js"></script>
+</body>
+</html>

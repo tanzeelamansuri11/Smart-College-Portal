@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Dr. Ananya Sharma",
+    "initials": "AS",
+    "department": "AI & DS",
+    "designation": "Head of Department",
+    "specialization": "Artificial Intelligence and Data Science",
+    "email": "ananya.sharma@example.edu"
+  },
+  {
+    "name": "Prof. Rohan Deshmukh",
+    "initials": "RD",
+    "department": "Computer Engineering",
+    "designation": "Assistant Professor",
+    "specialization": "Software Engineering and Algorithms",
+    "email": "rohan.deshmukh@example.edu"
+  },
+  {
+    "name": "Dr. Meera Kulkarni",
+    "initials": "MK",
+    "department": "Information Technology",
+    "designation": "Associate Professor",
+    "specialization": "Database Management Systems",
+    "email": "meera.kulkarni@example.edu"
+  },
+  {
+    "name": "Prof. Kunal Patil",
+    "initials": "KP",
+    "department": "Mechanical Engineering",
+    "designation": "Assistant Professor",
+    "specialization": "Manufacturing and Design",
+    "email": "kunal.patil@example.edu"
+  },
+  {
+    "name": "Dr. Neha Joshi",
+    "initials": "NJ",
+    "department": "Electronics and Telecommunication",
+    "designation": "Associate Professor",
+    "specialization": "Communication Systems",
+    "email": "neha.joshi@example.edu"
+  },
+  {
+    "name": "Prof. Aditya More",
+    "initials": "AM",
+    "department": "Civil Engineering",
+    "designation": "Assistant Professor",
+    "specialization": "Structural Engineering",
+    "email": "aditya.more@example.edu"
+  }
+]

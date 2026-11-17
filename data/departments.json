@@ -1,0 +1,56 @@
+[
+  {
+    "code": "AI & DS",
+    "name": "Artificial Intelligence and Data Science",
+    "shortDescription": "Explore intelligent systems, data analysis and machine learning.",
+    "courses": [
+      "B.Tech in AI & DS"
+    ],
+    "description": "The department focuses on programming, data science, artificial intelligence, machine learning and practical problem solving."
+  },
+  {
+    "code": "COMP",
+    "name": "Computer Engineering",
+    "shortDescription": "Build software, systems and computing solutions.",
+    "courses": [
+      "B.Tech in Computer Engineering"
+    ],
+    "description": "Students study programming, algorithms, databases, operating systems, networks and software development."
+  },
+  {
+    "code": "IT",
+    "name": "Information Technology",
+    "shortDescription": "Connect technology, information and real-world applications.",
+    "courses": [
+      "B.Tech in Information Technology"
+    ],
+    "description": "The programme covers software engineering, web technologies, databases, networks and information systems."
+  },
+  {
+    "code": "MECH",
+    "name": "Mechanical Engineering",
+    "shortDescription": "Understand design, manufacturing and mechanical systems.",
+    "courses": [
+      "B.Tech in Mechanical Engineering"
+    ],
+    "description": "The department introduces engineering design, manufacturing processes, thermal systems and mechanics."
+  },
+  {
+    "code": "ENTC",
+    "name": "Electronics and Telecommunication",
+    "shortDescription": "Discover electronics, communication and embedded systems.",
+    "courses": [
+      "B.Tech in Electronics and Telecommunication"
+    ],
+    "description": "The programme covers electronic circuits, communication systems, signal processing and embedded technologies."
+  },
+  {
+    "code": "CIVIL",
+    "name": "Civil Engineering",
+    "shortDescription": "Design and understand infrastructure and the built environment.",
+    "courses": [
+      "B.Tech in Civil Engineering"
+    ],
+    "description": "Students explore structural engineering, construction materials, surveying and environmental engineering."
+  }
+]
